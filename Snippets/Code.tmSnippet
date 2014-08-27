@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>\`\`\`${1|AppleScript,C,C++,CSS,HTML,JSON,Javascript,Java,LaTeX,Markdown,Mathematica,Matlab,Objective-C,Objective-C++,Perl,PHP,PostScript,Python,R,Ruby,Scala,Shell,SQL,Swift,TeX,XML|}
+	<string>\`\`\`${1|AppleScript,Bash,C,C++,CSS,HTML,Java,Javascript,JSON,LaTeX,Markdown,Mathematica,Matlab,Objective-C,Objective-C++,Perl,PHP,PostScript,Python,R,Ruby,Scala,SQL,Swift,TeX,XML|}
 $0
 \`\`\`</string>
 	<key>disableAutoIndent</key>

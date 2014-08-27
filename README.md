@@ -3,13 +3,14 @@
 A TextMate Bundle with a language grammar "Markdown (GitHub)" with syntax highlighting in fenced blocks of major GitHub-flavored markdown approved languages: 
 
 + AppleScript
++ Bash
 + C
 + C++
 + CSS
 + HTML
-+ JSON
-+ Javascript
 + Java
++ Javascript
++ JSON
 + LaTeX
 + Markdown
 + Mathematica
@@ -23,7 +24,6 @@ A TextMate Bundle with a language grammar "Markdown (GitHub)" with syntax highli
 + R
 + Ruby
 + Scala
-+ Shell
 + SQL
 + Swift
 + TeX
