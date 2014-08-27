@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string></string>
+	<key>contactName</key>
+	<string>Lucas Morales</string>
+	<key>description</key>
+	<string>A Bundle with a language grammar for major GitHub-flavored markdown language syntax highlighting in fenced blocks: AppleScript, C, C++, CSS, HTML, JSON, Javascript, Java, LaTeX, Markdown, Mathematica, Matlab, Objective-C, Objective-C++, Perl, PHP, PostScript, Python, R, Ruby, Scala, Shell, SQL, Swift, TeX, XML.</string>
+	<key>name</key>
+	<string>Markdown (GitHub)</string>
+	<key>uuid</key>
+	<string>D83C943E-E437-4208-B4B6-4E91E2183B34</string>
+</dict>
+</plist>
