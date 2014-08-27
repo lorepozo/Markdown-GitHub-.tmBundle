@@ -31,6 +31,10 @@ A TextMate Bundle with a language grammar "Markdown (GitHub)" with syntax highli
 
 Use the convient `code` snippet to initiatiate a fenced block with these languages!
 
-Syntax highlighting requires that you already have the corresponding language installed.
+Syntax highlighting requires that you already have the corresponding language grammar installed.
 
 ![Syntactic and Illustrative Example](example.png "Shown with my Epsilon-Light Theme!")
+
+###Installation:
+
+download the ZIP repository, rename the unzipped folder removing '-master', and use the .tmbundle extension
