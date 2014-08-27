@@ -33,4 +33,4 @@ Use the convient `code` snippet to initiatiate a fenced block with these languag
 
 Syntax highlighting requires that you already have the corresponding language installed.
 
-![Syntactic and Illustrative Example](example.png "Shown with my Light Theme!")
+![Syntactic and Illustrative Example](example.png "Shown with my Epsilon-Light Theme!")
